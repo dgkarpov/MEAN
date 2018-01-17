@@ -1,0 +1,29 @@
+{
+  "name": "environment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgkarpov/MEAN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgkarpov/MEAN/issues"
+  },
+  "homepage": "https://github.com/dgkarpov/MEAN#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.1.0",
+    "jshint": "^2.9.5",
+    "wiredep": "^4.0.0"
+  }
+}
